@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Spin the bottle</string>
+    <string name="Play">Play</string>
+    <string name="GO">GO</string>
+    <string name="setting">Settings</string>
+    <string name="rating">Rating</string>
+    <string name="settings_sound">Toggle Sound On/Off</string>
+    <string name="settings_ratings">Turn On/Off the ratings page</string>
+    <string name="Sounds">Sounds</string>
+    <string name="Ratings">Ratings</string>
+    <string name="Back">Back</string>
+    <string name="Rate_page">Please Rate this App!</string>
+</resources>
